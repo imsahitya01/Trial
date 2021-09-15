@@ -1,1 +1,3 @@
-class Abc {}
+class Abc {
+	void fun()
+}
